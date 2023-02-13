@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	calc "be-calculator/calculator"
+	calc "github.com/14mdzk/be-calculator/calculator"
 )
 
 func main() {
